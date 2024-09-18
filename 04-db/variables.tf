@@ -16,3 +16,4 @@ variable "common_tags" {
 
 variable "zone_name" {
   default = "dharla.online"
+}
